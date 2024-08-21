@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 # Hi there. I'm Christian Godoy
 
 - 🔭 I'm currently working on personal projects.
-- 🌱 I'm currently learning on the Udemy platform about web development.
+- 🌱 I am currently looking for remote work.
+
+- I am a FullStack developer who works mainly with JavaScript (TypeScript) and also Flutter technologies to create innovative and agile web, mobile and desktop applications.
 <!--
 ## ⚡ Technologies
 
