@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on personal projects.
 - 🌱 I am currently looking for remote work.
 
-- I am a FullStack developer who works mainly with JavaScript (TypeScript) and also Flutter technologies to create innovative and agile web, mobile and desktop applications.
+- I am a FullStack developer who works mainly with JavaScript (TypeScript) Frameworks and also Flutter technologies to create innovative and agile web, mobile and desktop applications.
 <!--
 ## ⚡ Technologies
 
